@@ -6,8 +6,8 @@
 - `node src/problema3_transpose.js`
 - `node src/problema4_filter.js`
 
-## Video (no listado)
-👉 [Enlace a YouTube](<LINK>)
+## Video 
+👉 [Enlace](<LINK>)
 
 ## Estructura
 - `Problema1 Lab12.pdf`: teoría (NOT en λ-cálculo, recursión/ciclos, cuándo usar).
